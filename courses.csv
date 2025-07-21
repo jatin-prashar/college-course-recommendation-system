@@ -1,0 +1,9 @@
+course_id,name,department,level,category
+C101,Introduction to AI,Computer Science,Basic,AI
+C102,Deep Learning,Computer Science,Advanced,AI
+C103,Web Development,IT,Intermediate,Web Dev
+C104,Financial Analytics,Management,Advanced,Finance
+C105,Bridge Engineering,Civil,Intermediate,Structures
+C106,Thermodynamics,Mechanical,Basic,Thermal
+C107,Signal Processing,Electronics,Advanced,Signal
+C108,Python for Data Science,Computer Science,Intermediate,Data Science
